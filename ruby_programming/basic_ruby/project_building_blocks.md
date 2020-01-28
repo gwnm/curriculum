@@ -37,7 +37,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
-[gwen's soloution] (https://github.com/gwnm/ruby_stuff/blob/master/ruby_building_blocks/caesar_cipher.rb)
+* [gwen's soloution] (https://github.com/gwnm/ruby_stuff/blob/master/ruby_building_blocks/caesar_cipher.rb)
 * [Zach's Solution](https://github.com/ZachBaird/CaesarCipher)
 * [Jakob's Solution](https://github.com/jodokusquack/Ruby-Challenges)
 * [fossegrim's Solution](https://github.com/olav35/building-blocks-exercise/blob/master/caesar_cipher.rb)
@@ -527,6 +527,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [gwen's solution](https://github.com/gwnm/ruby_stuff/blob/master/ruby_building_blocks/stock_picker.rb)
 * [Zach's Solution](https://github.com/ZachBaird/StockPicker)
 * [Jakob's Solution](https://github.com/jodokusquack/Ruby-Challenges)
 * [fossegrim's Solution](https://github.com/olav35/building-blocks-exercise/blob/master/stock_picker.rb)
@@ -979,6 +980,7 @@ Next, make sure your method can handle multiple words:
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [gwen's solution](https://github.com/gwnm/ruby_stuff/blob/master/ruby_building_blocks/substrings.rb)
 * [Zach's Solution](https://github.com/ZachBaird/RubySubstringCounter)
 * [Jakob's Solution](https://github.com/jodokusquack/Ruby-Challenges)
 * [fossegrim's Solution](https://github.com/olav35/building-blocks-exercise/blob/master/substrings.rb)
