@@ -52,6 +52,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
     
 * Add your solution below this line!
+* [gwen's solution](https://github.com/gwnm/ruby_stuff/blob/master/ruby_building_blocks/binary_tree.rb)
 * [Bradley's Solution with Extra Credit](https://github.com/spaceincase/odin-project-exercises/tree/master/binary_search_trees)
 * [Run After's Solution](https://github.com/run-after/data_structures-algorithms/blob/master/binary_search_tree.rb)
 * [Sher's Solution](https://github.com/sher-s7/binary_search_tree)
@@ -253,6 +254,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
   <summary> Show Student Solutions </summary>
     
 * Add your solution below this line!
+* [gewn's solution](https://github.com/gwnm/ruby_stuff/tree/master/knight_travils)
 * [fossegrim's Solution](https://github.com/olav35/data-structures-and-algorithms/blob/master/knight's_travails.rb)
 * [Run After's Solution](https://github.com/run-after/data_structures-algorithms/blob/master/knight_moves.rb)
 * [Nasser Abachi's Solution](https://github.com/abachi/theodinproject/tree/master/building-projects/knights_travails)
