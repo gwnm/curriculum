@@ -108,6 +108,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * Sergej Jurchenko's solutions: [Caesar Cipher](https://github.com/Sergyurch/ruby_problems/blob/master/spec/caesar_cipher_spec.rb), [Enumerable](https://github.com/Sergyurch/ruby_problems/blob/master/spec/enumerable-methods_spec.rb), [Tic Tac Toe](https://github.com/Sergyurch/ruby_problems/blob/master/spec/tic_tac_toe_game_spec.rb)
 * Bendee's Solutions: [Caesar Cipher](https://github.com/bendee48/ruby_building_blocks/blob/master/spec/caesar_cipher_spec.rb), [Enumerable](https://github.com/bendee48/advanced_building_blocks/blob/master/spec/enumerable_methods_spec.rb), [Tic Tac Toe](https://github.com/bendee48/tictactoe/blob/master/spec/tictactoe_spec.rb)
 * guacamobley's solutions: [Caesar Cipher](https://github.com/guacamobley/ruby-building-blocks), [Enumerable](https://github.com/guacamobley/ruby-advanced-building-blocks), [Tic Tac Toe](https://github.com/guacamobley/tic-tac-toe)
+* gwen's solutions: [Caesar cipher](https://github.com/gwnm/ruby_stuff/tree/master/rspec/caesar), [enumberable] (https://github.com/gwnm/ruby_stuff/tree/master/rspec/enumerable), [Tic Tac Toe](https://github.com/gwnm/ruby_stuff/tree/master/rspec/tic_tac_toe)
 </details>
 
 ### Project: TDD Connect Four
